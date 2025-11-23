@@ -24,7 +24,7 @@ export default function Footer() {
   };
 
   return (
-    <footer className="w-full bg-white dark:bg-black relative mt-20 overflow-hidden">
+    <footer className="w-full bg-white dark:bg-black relative  overflow-hidden">
 
       {/* ===== Wave Background (Full width fixed) ===== */}
       <div className="absolute top-0 left-0 w-full pointer-events-none z-0">
